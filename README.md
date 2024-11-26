@@ -5,11 +5,12 @@
 ## Installation
 
 ```sh
-python3 -m venv li_env
-source ag_env/bin/activate
+sh install.py
 
-pip install --upgrade pip
-pip install llama-index llama-index-llms-ollama llama-index-embeddings-ollama
+## RUN
+
+```sh
+sh llamaindex_env/Scripts/activate
+which python
 python hello.py
 ```
-
