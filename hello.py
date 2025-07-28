@@ -24,7 +24,7 @@ class DocumentQuery:
     
     def __init__(
         self,
-        model_name: str = "llama3.2",
+        model_name: str = "qwen2.5",
         data_dir: str = "./resource",
         collection_name: str = "quickstart"
     ):
