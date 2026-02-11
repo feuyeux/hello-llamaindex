@@ -1,4 +1,4 @@
-llama-index==0.14.13
+llama-index==0.14.14
 llama-index-llms-ollama==0.9.1
 llama-index-embeddings-ollama==0.8.6
 llama-index-vector-stores-chroma==0.5.5
